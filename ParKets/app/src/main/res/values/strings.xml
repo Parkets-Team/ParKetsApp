@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ParKets</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="copyright" translatable="false">©2023 ParKets</string>
+
+    <string name="welcomeDesc">this is a picture of the welcome page</string>
+    <string name="titleWelcomePage">Parking Tickets</string>
+    <string name="messageWelcomePage">Start parking your vehicle in selected area</string>
+
+    <string name="emailHint">Your Email</string>
+    <string name="passwordHint">Your Password</string>
+    <string name="LoginDesc">this is a picture of the login page</string>
+    <string name="titleLoginPage">Login</string>
+    <string name="alertTitle">Yeayyyy!</string>
+    <string name="alertMessage">You have successfully logged in. Can not wait to share the story?</string>
+    <string name="alertPositive">lets continue</string>
+    <string name="wrongEmailPassword">Wrong email or password</string>
+    <string name="emailDesc">enter your email</string>
+    <string name="passwordDesc">enter your Password</string>
+
+    <string name="RegisterDesc">this is a picture of the Register page</string>
+    <string name="titleSignUpPage">Register</string>
+    <string name="nameHint">Create your name</string>
+    <string name="emailHintReg">Create your email</string>
+    <string name="passwordHintReg">Create your password</string>
+    <string name="alertMessageRegister">Account has been created! Start login to add your own story.</string>
+    <string name="alertPositiveRegister">continue</string>
+
+    <string name="mapTittle">Story Map</string>
+    <string name="normalType">Normal</string>
+    <string name="satelliteType">Satellite</string>
+    <string name="terrainType">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="maps">Maps</string>
+    <string name="titleActivityAddLocation">AddLocationActivity</string>
+    <string name="load_map">LoadMap</string>
+    <string name="mapStyleFailed">Style parsing failed</string>
+    <string name="menuLogout">logout</string>
+    <string name="menuTranslate">Translate</string>
+    <string name="menuLocation">location</string>
+</resources>
